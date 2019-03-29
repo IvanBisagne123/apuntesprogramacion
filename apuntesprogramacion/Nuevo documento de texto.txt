@@ -1,0 +1,37 @@
+22/3
+
+c++ lenguaje orientado a objetos
+codigo objeto:traduccion a machinecode del proyecto.
+
+int:entero= 4bytes= 64bits.
+Char:caracter= 1bytes= 8bits.
+string:cadena
+
+scanf("%...",&variable);
+ %=mascara que indica al compilador el tipo de datos.
+  %d=enteros.
+  %f=flotantes.
+  %c=caracteres.
+ &=señala la direccion de memoria del primer capacistor(bit de memoria), donde se guarda el dato.
+
+buffer=acumular valores.
+
+fflush(stdin);
+fflush=limpiar.
+stint=buffer de entrada.
+ std:standar
+ in:input
+
+En LINUX en lugar de fflush se utiliza setbuf(stdin,null)
+
+setbuf    (stdin,NULL);
+setear   lennar el bufer
+buffer   de entrada con 
+             nada
+
+int ...[cantidad de bytes]
+
+pause=parar.
+cls=limpiar.
+
+
